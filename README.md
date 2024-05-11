@@ -46,12 +46,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   
 </div>
-<div align="center">
-  <img src="https://github.r2v.ch/codewars?user=xaiss&stroke=blue" alt="Codewars Stats"/>
-</div>
 
 ---
 
 ### :fire: Моя статистика:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wert1xxx1&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wert1xxx1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github.r2v.ch/codewars?user=xaiss&stroke=blue&theme=dark&top_languages=true" alt="Codewars Stats"/>
+</div>
+
