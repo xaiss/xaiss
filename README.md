@@ -46,6 +46,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   
 </div>
+<div align="center">
+  <img src="https://github.r2v.ch/codewars?user=xaiss&stroke=blue" alt="Codewars Stats"/>
+</div>
 
 ---
 
