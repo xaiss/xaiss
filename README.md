@@ -52,7 +52,8 @@
 ### :fire: Моя статистика:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wert1xxx1&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wert1xxx1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<div align="center">
+<div align="center" style="border: 2px solid #565656; box-shadow: 4px 4px 5px rgba(0,0,0,0.2);">
   <img src="https://github.r2v.ch/codewars?user=xaiss&stroke=blue&theme=dark&top_languages=true" alt="Codewars Stats"/>
 </div>
+
 
